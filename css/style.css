@@ -116,9 +116,9 @@
 
 /* Styles for the About page header */
 .about-header {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url('/images/about.jpg') center/cover no-repeat;
-    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/about.jpg') center/cover no-repeat;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/about.jpg') center/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url('/images/gallery/gallary.jpg') center/cover no-repeat;
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/gallery/gallary.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/gallery/gallary.jpg') center/cover no-repeat;
     background-size: auto 200%; /* Adjust the height (50% in this example) */
 }
 
@@ -139,9 +139,9 @@
 }
 /* Another page-specific background image */
 .gallery-header {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url('../images/gallery/gallary.jpg') center/cover no-repeat;
-    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/gallery/gallary.jpg') center/cover no-repeat;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/gallery/gallary.jpg') center/cover no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url('../images/about.jpg') center/cover no-repeat;
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/about.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/about.jpg') center/cover no-repeat;
 }
 /* Another page-specific background image */
 .index-header {
